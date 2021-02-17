@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1759e06b-192b-422f-a145-92da01e689bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../core/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../core/src/main/java/core/IPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../plugin/src/main/java/plugin/TestPlugin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nQDti562KpmpWpmHcyIzMxoszp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=4000" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.Unnamed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1759e06b-192b-422f-a145-92da01e689bc" name="Default Changelist" comment="" />
+      <created>1611313636959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611313636959</updated>
+      <workItem from="1611313640042" duration="85000" />
+      <workItem from="1611313810073" duration="1696000" />
+      <workItem from="1612875373049" duration="1233000" />
+      <workItem from="1613490678803" duration="6260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1057" y="295" key="#Unnamed" timestamp="1611313984033">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="1057" y="295" key="#Unnamed/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1611313984033" />
+    <state x="831" y="374" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613541996347">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="831" y="374" key="#com.intellij.execution.impl.EditConfigurationsDialog/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613541996347" />
+    <state x="1107" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613542680384">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="1107" y="466" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542680384" />
+    <state x="731" y="426" width="891" height="587" key="#xdebugger.evaluate" timestamp="1613540782168">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="731" y="426" width="891" height="587" key="#xdebugger.evaluate/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613540782168" />
+    <state width="924" height="466" key="DebuggerActiveHint" timestamp="1613540565872">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="924" height="466" key="DebuggerActiveHint/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613540565872" />
+    <state x="1174" y="615" key="DetectedRootsChooserDialog" timestamp="1613491572567">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="1174" y="615" key="DetectedRootsChooserDialog/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613491572567" />
+    <state x="1083" y="461" key="FileChooserDialogImpl" timestamp="1613542981736">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="1083" y="461" key="FileChooserDialogImpl/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542981736" />
+    <state width="2322" height="508" key="GridCell.Tab.0.bottom" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.0.bottom/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.0.center" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.0.center/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.0.left" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.0.left/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.0.right" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.0.right/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.1.bottom" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.1.bottom/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.1.center" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.1.center/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.1.left" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.1.left/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state width="2322" height="508" key="GridCell.Tab.1.right" timestamp="1613542985320">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state width="2322" height="508" key="GridCell.Tab.1.right/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542985320" />
+    <state x="907" y="374" key="Maven.ArtifactSearchDialog" timestamp="1613493276273">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="907" y="374" key="Maven.ArtifactSearchDialog/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613493276273" />
+    <state x="1141" y="422" key="RollbackChangesDialog" timestamp="1613542889264">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="1141" y="422" key="RollbackChangesDialog/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613542889264" />
+    <state x="857" y="294" key="SettingsEditor" timestamp="1613491578237">
+      <screen x="195" y="0" width="2365" height="1440" />
+    </state>
+    <state x="857" y="294" key="SettingsEditor/195.0.2365.1440/2560.0.1920.1040@195.0.2365.1440" timestamp="1613491578237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/letscode/MainServlet.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/letscode/MainServlet.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
